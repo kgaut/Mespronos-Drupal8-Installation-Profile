@@ -1,0 +1,11 @@
+{
+    "name": "kgaut/mespronos_website",
+    "description": "Drupal 8 Installation profile to install a fully configured betting website",
+    "require": {
+    	"composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "mespronos_website"
+    },
+    "type":"drupal-module"
+}
