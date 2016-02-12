@@ -36,7 +36,6 @@ dependencies:
   - rdf
   - views
   - views_ui
-  - tour
   - automated_cron
   - mespronos
   - mespronos_registration
