@@ -38,7 +38,6 @@ dependencies:
   - views_ui
   - automated_cron
   - mespronos
-  - mespronos_registration
 themes:
   - bartik
   - seven
