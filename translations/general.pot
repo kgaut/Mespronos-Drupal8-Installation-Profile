@@ -98,27 +98,27 @@ msgstr "Ajouter un sport"
 
 #: modules/mespronos/mespronos.links.action.yml:0
 msgid "Add league day"
-msgstr ""
+msgstr "Ajouter une journée de compétition"
 
 #: modules/mespronos/mespronos.links.action.yml:0 modules/mespronos/mespronos.routing.yml:0
 msgid "Add Game"
-msgstr ""
+msgstr "Ajouter un match"
 
 #: modules/mespronos/mespronos.links.action.yml:0 modules/mespronos/mespronos.routing.yml:0
 msgid "Add Bet"
-msgstr ""
+msgstr "Ajouter un pronostics"
 
 #: modules/mespronos/mespronos.links.menu.yml:0 modules/mespronos/mespronos.routing.yml:0
 msgid "Mespronos"
-msgstr ""
+msgstr "Mespronos"
 
 #: modules/mespronos/mespronos.links.menu.yml:0 modules/mespronos/mespronos.routing.yml:0
 msgid "Next bets"
-msgstr ""
+msgstr "Prochains pronostics"
 
 #: modules/mespronos/mespronos.links.menu.yml:0 modules/mespronos/mespronos.routing.yml:0;0;0
 msgid "Last bets"
-msgstr ""
+msgstr "Pronostics récents"
 
 #: modules/mespronos/mespronos.links.menu.yml:0
 msgid "Reference for usage, configuration, and modules."
@@ -126,63 +126,63 @@ msgstr ""
 
 #: modules/mespronos/mespronos.links.menu.yml:0
 msgid "See all next bets available."
-msgstr ""
+msgstr "Voir tous les prochains pronostics"
 
 #: modules/mespronos/mespronos.links.menu.yml:0
 msgid "See all last bets and results."
-msgstr ""
+msgstr "Voir tous les anciens pronostics"
 
 #: modules/mespronos/mespronos.links.task.yml:0
 msgid "Dashboard"
-msgstr ""
+msgstr "Tableau de bord"
 
 #: modules/mespronos/mespronos.links.task.yml:0 modules/mespronos/mespronos.permissions.yml:0 modules/mespronos/mespronos.routing.yml:0
 msgid "Set Marks"
-msgstr ""
+msgstr "Définir des scores"
 
 #: modules/mespronos/mespronos.links.task.yml:0
 msgid "Import"
-msgstr ""
+msgstr "Importer"
 
 #: modules/mespronos/mespronos.links.task.yml:0 modules/mespronos/mespronos.routing.yml:0
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: modules/mespronos/mespronos.links.task.yml:0;0;0;0;0;0
 msgid "View"
-msgstr ""
+msgstr "Voir"
 
 #: modules/mespronos/mespronos.links.task.yml:0;0;0;0;0;0
 msgid "Edit"
-msgstr ""
+msgstr "Modifier"
 
 #: modules/mespronos/mespronos.links.task.yml:0;0;0;0;0;0 modules/mespronos/src/Entity/Form/MPNDeleteForm.php:38
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: modules/mespronos/mespronos.links.task.yml:0
 msgid "Teams"
-msgstr ""
+msgstr "Equipes"
 
 #: modules/mespronos/mespronos.links.task.yml:0
 msgid "Leagues"
-msgstr ""
+msgstr "Compétitions"
 
 #: modules/mespronos/mespronos.links.task.yml:0
 msgid "Sports"
-msgstr ""
+msgstr "Sports"
 
 #: modules/mespronos/mespronos.links.task.yml:0
 msgid "Recalculate ranking"
-msgstr ""
+msgstr "Recalculer le classement"
 
 #: modules/mespronos/mespronos.links.task.yml:0
 msgid "League days"
-msgstr ""
+msgstr "Journées de compétition"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "Access MesPronos dashboard"
-msgstr ""
+msgstr "Accèder au tableau de bord MesPronos"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "Accès au tableau de bord du module MesPronos"
@@ -190,187 +190,187 @@ msgstr ""
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "manage MesPronos settings"
-msgstr ""
+msgstr "Gérer le paramétrage du module MesPronos"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "such as points settings"
-msgstr ""
+msgstr "Comme le paramétrage des points"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "Access to Mespronos configuration and content"
-msgstr ""
+msgstr "Accéder à la configuration du module MesPronos et de son contenu"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "All entity settings, change content..."
-msgstr ""
+msgstr "Paramètres des entités, changer le contenu..."
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "Import league to MesPronos"
-msgstr ""
+msgstr "Importer une compétition"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "Import a league, team and days"
-msgstr ""
+msgstr "Importer une compétition, des équipes et des journées"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "Define game marks"
-msgstr ""
+msgstr "Définir les scores"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "View upcoming bets' days"
-msgstr ""
+msgstr "Voir les prochains pronostics"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "View passed bets' days"
-msgstr ""
+msgstr "Voir les pronostics passés"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "View passed own bets result"
-msgstr ""
+msgstr "Voir ses résultats sur les anciens pronostics"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "View passed bets result for another user"
-msgstr ""
+msgstr "Voir les résultats d'un autre utilisateur sur les anciens pronostics"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "Subscribe to a league"
-msgstr ""
+msgstr "S'incrire à une compétition"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "Allow to bet on this league"
-msgstr ""
+msgstr "Permet de pronostiquer sur une compétition"
 
 #: modules/mespronos/mespronos.permissions.yml:0
 msgid "make a bet"
-msgstr ""
+msgstr "Faire un pronostic"
 
 #: modules/mespronos/mespronos.routing.yml:0;0
 msgid "Import League"
-msgstr ""
+msgstr "Importer une compétition"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "remove data"
-msgstr ""
+msgstr "Supprimer les données"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Bet !"
-msgstr ""
+msgstr "Pronostiquer !"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Team Content"
-msgstr ""
+msgstr "Équipe"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Team List"
-msgstr ""
+msgstr "Liste des équipes"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Add Team"
-msgstr ""
+msgstr "Ajouter une équipe"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Edit Team"
-msgstr ""
+msgstr "Modifier une équipe"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Delete Team"
-msgstr ""
+msgstr "Supprimer une équipe"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "League Content"
-msgstr ""
+msgstr "Compétition"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "League List"
-msgstr ""
+msgstr "Liste des compétitions"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Add League"
-msgstr ""
+msgstr "Ajouter une compétition"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Edit League"
-msgstr ""
+msgstr "Modifier une compétition"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Delete League"
-msgstr ""
+msgstr "Supprimer une compétition"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Sport Content"
-msgstr ""
+msgstr "Sport"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Sport List"
-msgstr ""
+msgstr "Liste des sports"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Add Sport"
-msgstr ""
+msgstr "Ajouter un sport"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Edit Sport"
-msgstr ""
+msgstr "Modifier un sport"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Delete Sport"
-msgstr ""
+msgstr "Supprimer un sport"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Day Content"
-msgstr ""
+msgstr "Journée"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Day List"
-msgstr ""
+msgstr "Liste des journées"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Add Day"
-msgstr ""
+msgstr "Ajouter une journée"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Edit Day"
-msgstr ""
+msgstr "Modifier une journée"
 
 #: modules/mespronos/mespronos.routing.yml:0
-msgid "Recaulculate ranking for Day"
-msgstr ""
+msgid "Recalculate ranking for Day"
+msgstr "Recalculer le classement d'une journée"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Delete Day"
-msgstr ""
+msgstr "Supprimer la journée"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Game Content"
-msgstr ""
+msgstr "Match"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Game List"
-msgstr ""
+msgstr "Liste des matchs"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Edit Game"
-msgstr ""
+msgstr "Modifier un match"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Delete Game"
-msgstr ""
+msgstr "Supprimer un match"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Bet Content"
-msgstr ""
+msgstr "Pronostic"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Bet List"
-msgstr ""
+msgstr "Liste des pronostics"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Edit Bet"
-msgstr ""
+msgstr "Modifier un pronostic"
 
 #: modules/mespronos/mespronos.routing.yml:0
 msgid "Delete Bet"
-msgstr ""
+msgstr "Supprimer un pronostic"
 
 #: modules/mespronos/mespronos_registration/mespronos_registration.info.yml:0
 msgid "Mespronos Registration"
@@ -378,143 +378,143 @@ msgstr ""
 
 #: modules/mespronos/mespronos_registration/mespronos_registration.info.yml:0
 msgid "Registration tweaking for MesPronos"
-msgstr ""
+msgstr "Optiomisations liée à l'inscription pour le module MesPronos"
 
 #: modules/mespronos/mespronos_registration/mespronos_registration.routing.yml:0
 msgid "join"
-msgstr ""
+msgstr "Rejoindre"
 
 #: modules/mespronos/mespronos_registration/templates/join.html.twig:2
 msgid "I already have an account"
-msgstr ""
+msgstr "J'ai déjà un compte"
 
 #: modules/mespronos/mespronos_registration/templates/join.html.twig:3
 msgid "Login"
-msgstr ""
+msgstr "Connection"
 
 #: modules/mespronos/mespronos_registration/templates/join.html.twig:7
 msgid "I don't have an account yet"
-msgstr ""
+msgstr "Je n'ai pas encore de compte"
 
 #: modules/mespronos/mespronos_registration/templates/join.html.twig:8
 msgid "Registration"
-msgstr ""
+msgstr "Inscription"
 
 #: modules/mespronos/src/Controller/AdministrationController.php:36
 msgid "There's no game for which mark is not set"
-msgstr ""
+msgstr "Il n'y a aucun match sans score"
 
 #: modules/mespronos/src/Controller/BettingController.php:59
 msgid "@d days, @GH@im"
-msgstr ""
+msgstr "@d jours, @GH@im"
 
 #: modules/mespronos/src/Controller/BettingController.php:59
 msgid "@GH@im"
-msgstr ""
+msgstr "@GH@im"
 
 #: modules/mespronos/src/Controller/BettingController.php:69
 msgid "See all upcoming bets"
-msgstr ""
+msgstr "Voir tous les prochains pronostics"
 
 #: modules/mespronos/src/Controller/BettingController.php:81;142
 msgctxt "mespronos"
 msgid "League"
-msgstr ""
+msgstr "Compétition"
 
 #: modules/mespronos/src/Entity/Day.php:150 modules/mespronos/src/Entity/League.php:15 modules/mespronos/src/Entity/RankingLeague.php:115 modules/mespronos/src/Entity/Controller/DayListController.php:28 modules/mespronos/src/Entity/Controller/GameListController.php:26 modules/mespronos/src/Entity/ViewsData/LeagueViewsData.php:25
 msgid "League"
-msgstr ""
+msgstr "Compétition"
 
 #: modules/mespronos/src/Controller/BettingController.php:82;143
 msgctxt "mespronos"
 msgid "Day"
-msgstr ""
+msgstr "Journée"
 
 #: modules/mespronos/src/Entity/Game.php:243 modules/mespronos/src/Entity/RankingDay.php:136 modules/mespronos/src/Entity/Controller/GameListController.php:27 modules/mespronos/src/Entity/ViewsData/DayViewsData.php:27
 msgid "Day"
-msgstr ""
+msgstr "Journée"
 
 #: modules/mespronos/src/Controller/BettingController.php:83
 msgctxt "mespronos"
 msgid "Games"
-msgstr ""
+msgstr "Match"
 
 #: modules/mespronos/src/Controller/BettingController.php:84
 msgctxt "mespronos"
 msgid "Games to play"
-msgstr ""
+msgstr "Match à jouer"
 
 #: modules/mespronos/src/Controller/BettingController.php:85;146
 msgctxt "mespronos"
 msgid "Bets done"
-msgstr ""
+msgstr "Pronostics faits"
 
 #: modules/mespronos/src/Controller/BettingController.php:86
 msgctxt "mespronos"
 msgid "Time left"
-msgstr ""
+msgstr "Temps restant"
 
 #: modules/mespronos/src/Controller/BettingController.php:115
 msgid "Details"
-msgstr ""
+msgstr "Détails"
 
 #: modules/mespronos/src/Controller/BettingController.php:121
 msgid "Log in to see your score"
-msgstr ""
+msgstr "Connectez-vous pour voir votre score"
 
 #: modules/mespronos/src/Controller/BettingController.php:144
 msgctxt "mespronos"
 msgid "Games over"
-msgstr ""
+msgstr "Matchs terminés"
 
 #: modules/mespronos/src/Controller/BettingController.php:145
 msgctxt "mespronos"
 msgid "Games with score"
-msgstr ""
+msgstr "Matchs avec un score"
 
 #: modules/mespronos/src/Controller/BettingController.php:147;220 modules/mespronos/src/Controller/RankingController.php:62
 msgctxt "mespronos"
 msgid "Points"
-msgstr ""
+msgstr "Points"
 
 #: modules/mespronos/src/Controller/BettingController.php:156
 msgid "See all the last bets"
-msgstr ""
+msgstr "Voir tous les pronostics passés"
 
 #: modules/mespronos/src/Controller/BettingController.php:180
 msgid "This day doesn't exist."
-msgstr ""
+msgstr "Cette journée n'existe pas."
 
 #: modules/mespronos/src/Controller/BettingController.php:217
 msgctxt "mespronos"
 msgid "Game"
-msgstr ""
+msgstr "Match"
 
 #: modules/mespronos/src/Entity/Bet.php:164 modules/mespronos/src/Entity/ViewsData/GameViewsData.php:25
 msgid "Game"
-msgstr ""
+msgstr "Match"
 
 #: modules/mespronos/src/Controller/BettingController.php:218
 msgctxt "mespronos"
 msgid "Score"
-msgstr ""
+msgstr "Score"
 
 #: modules/mespronos/src/Controller/BettingController.php:219
 msgctxt "mespronos"
 msgid "Bet"
-msgstr ""
+msgstr "Pronostic"
 
 #: modules/mespronos/src/Entity/ViewsData/BetViewsData.php:25
 msgid "Bet"
-msgstr ""
+msgstr "Pronostic"
 
 #: modules/mespronos/src/Controller/BettingController.php:239;250
 msgid "Register or login and start betting"
-msgstr ""
+msgstr "Inscrivez-vous ou connectez-vous et commencez à pronostiquer"
 
 #: modules/mespronos/src/Controller/BettingController.php:262
 msgid "Start betting now !"
-msgstr ""
+msgstr "Pronostiquez dès maintenant !"
 
 #: modules/mespronos/src/Controller/DefaultController.php:27
 msgid "Hello World!"
@@ -522,54 +522,54 @@ msgstr ""
 
 #: modules/mespronos/src/Controller/ImporterController.php:66
 msgid "@nb games created / updated"
-msgstr ""
+msgstr "@nb matches créés / mis à jours"
 
 #: modules/mespronos/src/Controller/ImporterController.php:97
 msgid "The league @league_name of @sport_name has been created"
-msgstr ""
+msgstr "La league '@league_name' de @sport_name a été créée"
 
 #: modules/mespronos/src/Controller/ImporterController.php:114
 msgid "Journée @nb"
-msgstr ""
+msgstr "Journée @nb"
 
 #: modules/mespronos/src/Controller/ImporterController.php:117
 msgid "The day @number of @league_name has been created"
-msgstr ""
+msgstr "La journée @number de @league_name a été créée"
 
 #: modules/mespronos/src/Controller/ImporterController.php:133
 msgid "The team @team has been created"
-msgstr ""
+msgstr "L'équipe @team a été créée"
 
 #: modules/mespronos/src/Controller/ImporterController.php:165
 msgid "The game @team1 - @team2 has been created"
-msgstr ""
+msgstr "Le matche @team1 - @team2 a été créé"
 
 #: modules/mespronos/src/Controller/RankingController.php:19
 msgid "Ranking updated for @nb betters"
-msgstr ""
+msgstr "Classement mis à jour pour @nb pronostiqueurs"
 
 #: modules/mespronos/src/Controller/RankingController.php:60
 msgctxt "mespronos"
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 #: modules/mespronos/src/Controller/RankingController.php:61
 msgctxt "mespronos"
 msgid "Better"
-msgstr ""
+msgstr "Pronostiqueur"
 
 #: modules/mespronos/src/Entity/Bet.php:138 modules/mespronos/src/Entity/Ranking.php:47
 msgid "Better"
-msgstr ""
+msgstr "Pronostiqueur"
 
 #: modules/mespronos/src/Controller/RankingController.php:63
 msgctxt "mespronos"
-msgid "Games betted"
+msgid "Matchs pronostiqués"
 msgstr ""
 
 #: modules/mespronos/src/Entity/Bet.php:74 modules/mespronos/src/Entity/Game.php:85
 msgid "@t1 - @t2"
-msgstr ""
+msgstr "@t1 - @t2"
 
 #: modules/mespronos/src/Entity/Bet.php:139 modules/mespronos/src/Entity/Ranking.php:48
 msgid "The user ID of the Bet entity author."
